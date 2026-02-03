@@ -135,6 +135,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+reaper_clean/
+model/
 
 # Spyder project settings
 .spyderproject
